@@ -16,9 +16,6 @@ Flutter · Riverpod · Supabase · Agora · Firebase
 
 <img src="assets/feature-graphic.png" alt="Tabu tanıtım görseli" />
 
-> 🔒 **Kaynak kod gizli.** Bu repo uygulamanın vitrini; kod ayrı ve private bir repoda duruyor.
-> Projeyi incelemek istersen benimle iletişime geçebilirsin.
-
 ---
 
 ## Ekranlar
